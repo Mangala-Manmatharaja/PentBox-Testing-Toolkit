@@ -4,6 +4,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
 
 ## ✨ Features
 
+
   🌐 Network Tools: Includes port scanners, DNS and host gathering, and DoS testing modules.
 
   🕸️ Web Tools: Features HTTP directory and file brute-forcing, as well as MAC address geolocation.
@@ -16,6 +17,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
 
 
 ## 🛠️ Installation
+
 
   To get started with PentBox, follow these steps:
   
@@ -43,9 +45,10 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
   Run ./pentbox.rb to access the main menu, where you can select various tools and modules. Each module includes detailed prompts to guide usage. For detailed documentation,   
   refer to Kali Linux's guide on honeypots.
   
-### 📜 Changelog
+## 📜 Changelog
 
-### 🆕 Version 1.8 (Latest)
+## 🆕 Version 1.8 (Latest)
+
   
    ➕ Added command execution in STDIN (!command).
   
@@ -58,8 +61,10 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
    🔄 Included pb_update.rb for updates via SVN.
   
    🐛 Fixed SHODAN API issues and improved permissions checking.
+   
 
-### 🔧 Version 1.5
+## 🔧 Version 1.5
+
 
    ⚡ Optimized for Ruby 1.9.x and JRuby with native threads.
 
@@ -68,6 +73,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
    🔑 Added RIPEMD-160 hashing, HTTP header fuzzing, and protected mode for DoS tools.
 
    🛠️ Unified DoS tools into net_dos.rb and included new DNS search module.
+   
 
 ### 🛡️ Version 1.3.2
 
@@ -84,20 +90,23 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
   Version 1.1: Added secure IM client and optimized DoS tools.
   Version 1.0: Initial release with core functionality.
 
-### 🤝 Contributing
+## 🤝 Contributing
   
   - We welcome contributions to improve PentBox! To contribute:
+    
 
-### 🍴 Fork the repository.
+## 🍴 Fork the repository.
+
 
 -🌱 Create a feature branch (git checkout -b feature/YourFeature).
 - 💾 Commit your changes (git commit -m "Add YourFeature").
 - 🚀 Push to the branch (git push origin feature/YourFeature).
 - 📬 Open a pull request with a clear description of your changes.
+  
 
 ### Please focus on meaningful updates, such as new features, bug fixes, or performance improvements. Avoid submitting typo fixes or minor formatting changes.
 
 
-### 📄 License
+## 📄 License
 
   PentBox is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
