@@ -23,19 +23,19 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
   
   git clone (https://github.com/Mangala-Manmatharaja/PentBox-Testing-Toolkit)
 
-## Navigate to the project directory
+### Navigate to the project directory
     cd pentbox
 
-## Extract the tarball
+### Extract the tarball
     tar -zxvf pentbox.tar.gz
 
-## Enter the extracted directory
+### Enter the extracted directory
     cd pentbox
 
-## Run the main script
+### Run the main script
     ./pentbox.rb
 
-## Ensure Ruby is installed on your system. For Ubuntu/Debian, you can install it with:
+### Ensure Ruby is installed on your system. For Ubuntu/Debian, you can install it with:
     sudo apt-get install ruby
 
 ## 🚀 Usage
@@ -47,37 +47,37 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
 
 ### 🆕 Version 1.8 (Latest)
   
-  ➕ Added command execution in STDIN (!command).
+   ➕ Added command execution in STDIN (!command).
   
-  📍 Enhanced honeypot with attacker IP/port logging.
+   📍 Enhanced honeypot with attacker IP/port logging.
   
-  🌐 Introduced web tools: HTTP directory and file brute-forcing, MAC address geolocation.
+   🌐 Introduced web tools: HTTP directory and file brute-forcing, MAC address geolocation.
   
-  💥 Added DoS exploits for various systems (e.g., 3Com, Windows FTP, SMB).
+   💥 Added DoS exploits for various systems (e.g., 3Com, Windows FTP, SMB).
   
-  🔄 Included pb_update.rb for updates via SVN.
+   🔄 Included pb_update.rb for updates via SVN.
   
-  🐛 Fixed SHODAN API issues and improved permissions checking.
+   🐛 Fixed SHODAN API issues and improved permissions checking.
 
 ### 🔧 Version 1.5
 
-  ⚡ Optimized for Ruby 1.9.x and JRuby with native threads.
+   ⚡ Optimized for Ruby 1.9.x and JRuby with native threads.
 
-  📈 Improved TCP port scanner and hash cracker performance.
+   📈 Improved TCP port scanner and hash cracker performance.
 
-  🔑 Added RIPEMD-160 hashing, HTTP header fuzzing, and protected mode for DoS tools.
+   🔑 Added RIPEMD-160 hashing, HTTP header fuzzing, and protected mode for DoS tools.
 
-  🛠️ Unified DoS tools into net_dos.rb and included new DNS search module.
+   🛠️ Unified DoS tools into net_dos.rb and included new DNS search module.
 
 ### 🛡️ Version 1.3.2
 
-  🚀 Enhanced FTP fuzzing and CLI interface.
+   🚀 Enhanced FTP fuzzing and CLI interface.
 
-  🔍 Added dictionary-bruteforce hybrid attack for hash cracking.
+   🔍 Added dictionary-bruteforce hybrid attack for hash cracking.
 
-  📝 Improved honeypot logging and module integration for better performance.
+   📝 Improved honeypot logging and module integration for better performance.
 
-  📚 Older Versions
+   📚 Older Versions
 
   Version 1.3: Added cryptographic ciphers (GOST, ARC4, Rijndael) and file encryption.
   Version 1.2: Introduced fuzzing tool and honeypot logging improvements.
@@ -86,7 +86,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
 
 ### 🤝 Contributing
   
-  We welcome contributions to improve PentBox! To contribute:
+  - We welcome contributions to improve PentBox! To contribute:
 
 ### 🍴 Fork the repository.
 
