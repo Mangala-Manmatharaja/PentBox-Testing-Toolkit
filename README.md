@@ -47,6 +47,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
   
 ## 📜 Changelog
 
+
 ## 🆕 Version 1.8 (Latest)
 
   
@@ -75,7 +76,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
    🛠️ Unified DoS tools into net_dos.rb and included new DNS search module.
    
 
-### 🛡️ Version 1.3.2
+## 🛡️ Version 1.3.2
 
    🚀 Enhanced FTP fuzzing and CLI interface.
 
