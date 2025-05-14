@@ -1,18 +1,26 @@
-🔒 PentBox - A Security Testing Toolkit
+# 🔒 PentBox - A Security Testing Toolkit
 
 PentBox is a lightweight, open-source security toolkit designed to streamline penetration testing tasks. Written in Ruby, it is primarily oriented for GNU/Linux but supports Windows, macOS, and any system with Ruby installed. PentBox provides a collection of tools for network scanning, web testing, and more, making it a versatile choice for security professionals.
-✨ Features
+
+## ✨ Features
 
 🌐 Network Tools: Includes port scanners, DNS and host gathering, and DoS testing modules.
+
 🕸️ Web Tools: Features HTTP directory and file brute-forcing, as well as MAC address geolocation.
+
 🔐 Cryptography: Supports password hashing and cracking with an expanded wordlist.
+
 🛡️ Honeypot: Detects and logs intrusions with attacker IP and port details.
+
 💻 Cross-Platform: Runs on any system with Ruby installed.
 
-🛠️ Installation
-To get started with PentBox, follow these steps:
-# Clone the repository
-git clone https://github.com/yourusername/pentbox
+
+## 🛠️ Installation
+  
+  To get started with PentBox, follow these steps:
+### Clone the repository
+  
+  git clone [https://github.com/yourusername/pentbox](https://github.com/Mangala-Manmatharaja/PentBox-Testing-Toolkit)
 
 # Navigate to the project directory
 cd pentbox
