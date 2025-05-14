@@ -4,20 +4,21 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
 
 ## ✨ Features
 
-🌐 Network Tools: Includes port scanners, DNS and host gathering, and DoS testing modules.
+  🌐 Network Tools: Includes port scanners, DNS and host gathering, and DoS testing modules.
 
-🕸️ Web Tools: Features HTTP directory and file brute-forcing, as well as MAC address geolocation.
+  🕸️ Web Tools: Features HTTP directory and file brute-forcing, as well as MAC address geolocation.
 
-🔐 Cryptography: Supports password hashing and cracking with an expanded wordlist.
+  🔐 Cryptography: Supports password hashing and cracking with an expanded wordlist.
+  
+  🛡️ Honeypot: Detects and logs intrusions with attacker IP and port details.
 
-🛡️ Honeypot: Detects and logs intrusions with attacker IP and port details.
-
-💻 Cross-Platform: Runs on any system with Ruby installed.
+  💻 Cross-Platform: Runs on any system with Ruby installed.
 
 
 ## 🛠️ Installation
-  
+
   To get started with PentBox, follow these steps:
+  
 ### Clone the repository
   
   git clone (https://github.com/Mangala-Manmatharaja/PentBox-Testing-Toolkit)
@@ -42,7 +43,7 @@ PentBox is a lightweight, open-source security toolkit designed to streamline pe
   Run ./pentbox.rb to access the main menu, where you can select various tools and modules. Each module includes detailed prompts to guide usage. For detailed documentation,   
   refer to Kali Linux's guide on honeypots.
   
-###📜 Changelog
+### 📜 Changelog
 
 ### 🆕 Version 1.8 (Latest)
   
