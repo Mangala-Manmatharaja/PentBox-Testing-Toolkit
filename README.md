@@ -1,4 +1,4 @@
-# 🔒 PentBox - A Security Testing Toolkit
+# 🔒 PentBox - A Security Test Toolkit
 
 PentBox is a lightweight, open-source security toolkit designed to streamline penetration testing tasks. Written in Ruby, it is primarily oriented for GNU/Linux but supports Windows, macOS, and any system with Ruby installed. PentBox provides a collection of tools for network scanning, web testing, and more, making it a versatile choice for security professionals.
 
